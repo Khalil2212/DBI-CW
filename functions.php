@@ -24,7 +24,7 @@ echo <<<EOT
 	<body>
     <nav class="navtop">
     	<div>
-    		<h1>Database CourseWork 2</h1>
+    		<h1>Database CourseWork 2 -Group 34</h1>
            
 			
     	</div>
